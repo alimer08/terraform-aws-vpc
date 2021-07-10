@@ -20,5 +20,5 @@ module "app_name" {
         Quarter = "3"
         AppName = "Wordpress"
     }
-} 
+}
 ```
